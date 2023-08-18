@@ -22,7 +22,7 @@ func main() {
 	// The frequency of words in the file
 	words, err := freq(f)
 	if err != nil {
-		log.Fatalf("error from freq in main: %s", err)
+		log.Fatalf("error from freq in main -->: %s", err)
 	}
 
 	// Display the word frequencies
