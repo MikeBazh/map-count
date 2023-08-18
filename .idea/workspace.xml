@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac06e3e5-007e-4d8e-b553-8f46c549020b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="e880ff2c-52eb-44ec-94d5-0c9289f644df" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2UA5ROyBnma8uCt9zoqJfRtpDR3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "/home/m/GoPr",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoPr" />
+      <working_directory value="$PROJECT_DIR$/../gopr" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/../gopr" />
+      <filePath value="$PROJECT_DIR$/../gopr/github/map-count/main.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
